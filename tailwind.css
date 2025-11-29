@@ -30,16 +30,16 @@
     --color-secondary-500: #C4BAA9; /* warm-gray-400 */
 
     /* Accent Colors - Luxury warmth, premium positioning */
-    --color-accent: #D4A574; /* gold-400 */
-    --color-accent-50: #FAF6F0; /* gold-50 */
-    --color-accent-100: #F5EDE0; /* gold-100 */
-    --color-accent-200: #EBD9BE; /* gold-200 */
-    --color-accent-300: #E0C49C; /* gold-300 */
-    --color-accent-400: #D4A574; /* gold-400 */
-    --color-accent-500: #C8944F; /* gold-500 */
-    --color-accent-600: #A67A3F; /* gold-600 */
-    --color-accent-700: #7D5C2F; /* gold-700 */
-    --color-accent-800: #5A4322; /* gold-800 */
+      --color-accent: #3B82F6;        /* blue-500 */
+--color-accent-50: #EFF6FF;     /* blue-50 */
+--color-accent-100: #DBEAFE;    /* blue-100 */
+--color-accent-200: #BFDBFE;    /* blue-200 */
+--color-accent-300: #93C5FD;    /* blue-300 */
+--color-accent-400: #60A5FA;    /* blue-400 */
+--color-accent-500: #3B82F6;    /* blue-500 */
+--color-accent-600: #2563EB;    /* blue-600 */
+--color-accent-700: #1D4ED8;    /* blue-700 */
+--color-accent-800: #1E40AF;    /* blue-800 */
 
     /* Background Colors */
     --color-background: #FFFFFF; /* white - Pure clarity, content focus */
