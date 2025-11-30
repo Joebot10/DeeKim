@@ -846,7 +846,7 @@ button{
 .btn-primary{
   border-radius: 8px;
   --tw-bg-opacity: 1;
-  background-color: rgb(50 50 250 / var(--tw-bg-opacity, 1));
+  background-color: rgb(50 50 244 / var(--tw-bg-opacity, 1));
   padding-left: 2rem;
   padding-right: 2rem;
   padding-top: 1rem;
@@ -2389,27 +2389,27 @@ button{
 
 .hover\:border-accent:hover{
   --tw-border-opacity: 1;
-  border-color: rgb(212 165 116 / var(--tw-border-opacity, 1));
+  border-color: rgb(116, 138, 212 / var(--tw-border-opacity, 1));
 }
 
 .hover\:bg-accent:hover{
   --tw-bg-opacity: 1;
-  background-color: rgb(212 165 116 / var(--tw-bg-opacity, 1));
+  background-color: rgb(116, 138, 212 / var(--tw-bg-opacity, 1));
 }
 
 .hover\:bg-accent-50:hover{
   --tw-bg-opacity: 1;
-  background-color: rgb(250 246 240 / var(--tw-bg-opacity, 1));
+  background-color: rgb(240, 246, 250 / var(--tw-bg-opacity, 1));
 }
 
 .hover\:bg-accent-500:hover{
   --tw-bg-opacity: 1;
-  background-color: rgb(200 148 79 / var(--tw-bg-opacity, 1));
+  background-color: rgb(79, 148, 200 / var(--tw-bg-opacity, 1));
 }
 
 .hover\:bg-secondary-200:hover{
   --tw-bg-opacity: 1;
-  background-color: rgb(240 237 232 / var(--tw-bg-opacity, 1));
+  background-color: rgb(232, 237, 240 / var(--tw-bg-opacity, 1));
 }
 
 .hover\:bg-surface:hover{
@@ -2424,17 +2424,17 @@ button{
 
 .hover\:text-accent:hover{
   --tw-text-opacity: 1;
-  color: rgb(212 165 116 / var(--tw-text-opacity, 1));
+  color: rgb(115, 139, 212 / var(--tw-text-opacity, 1));
 }
 
 .hover\:text-accent-200:hover{
   --tw-text-opacity: 1;
-  color: rgb(235 217 190 / var(--tw-text-opacity, 1));
+  color: rgb(190, 201, 235 / var(--tw-text-opacity, 1));
 }
 
 .hover\:text-accent-600:hover{
   --tw-text-opacity: 1;
-  color: rgb(166 122 63 / var(--tw-text-opacity, 1));
+  color: rgb(63, 89, 166 / var(--tw-text-opacity, 1));
 }
 
 .hover\:text-primary:hover{
