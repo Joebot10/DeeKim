@@ -846,7 +846,7 @@ button{
 .btn-primary{
   border-radius: 8px;
   --tw-bg-opacity: 1;
-  background-color: rgb(50 50 244 / var(--tw-bg-opacity, 1));
+  background-color: rgb(10 50 244 / var(--tw-bg-opacity, 1));
   padding-left: 2rem;
   padding-right: 2rem;
   padding-top: 1rem;
